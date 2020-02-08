@@ -1,0 +1,20 @@
+
+READ THIS FIRST !
+
+HOW IT WORKS ? 
+
+1.UPLOAD YOUR WSO SHELL TO YOUR SHELL . 
+
+2.CONFIGURE MAILSIPELER.PHP , CHANGE THE EMAIL , SUBJECT , AND MESSAGE . 
+
+3. OPEN FILE AUTO.SH FIND AND REPLACE dontme.php TO YOUR NAME SHELL . 
+
+4. PUT THE LIST WITHOUT YOUR NAME SHELL AND PATH LIKE THIS 
+
+SAMPLE " www.google.com/shell.php" dont put shell.php on list . just put www.google.com/ 
+
+if you got shell with deep directory just put like this " www.google.com/filemanager/path/path/path/path/ " << put like this without name of your shell . 
+
+5. MAKE SURE ALL YOUR SHELL LIST UPLOADED WSO SHELL !! 
+
+Ndre1337 .
